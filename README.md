@@ -1,0 +1,2 @@
+# AppCoin-Miner
+AppCoin Miner
